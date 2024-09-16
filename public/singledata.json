@@ -1,0 +1,289 @@
+
+[
+
+  {
+    "id": "1",
+    "stock": 3,
+    "price": 2425,
+    "shipping": true,
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#0000ff"
+    ],
+    "category": "home",
+    "images": [
+      {
+        "id": "1",
+        "width": 1000,
+        "height": 667,
+        "url": "../imgs/ograda1.jpg",
+     
+      
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/ograda1.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/ograda1.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/ograda1.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attaeT2Dex98o2jfW",
+        "width": 1000,
+        "height": 667,
+        "url": "../imgs/ograda2.jpg",
+        "filename": "extra-1.jpeg",
+        "size": 102108,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/ograda2.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/ograda2.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/ograda2.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 25,
+    "stars": 4.9,
+    "name": "Ograda",
+    "description": "Duzina 12m visina 0.8m"
+  }
+  ,
+  {
+    "id": "2",
+    "stock": 3,
+    "price": 2599,
+    "shipping": true,
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#0000ff"
+    ],
+    "category": "home-garden",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "../imgs/plastenik1.jpg",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/plastenik1.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/plastenik1.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/plastenik1.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attaeT2Dex98o2jfW",
+        "width": 1000,
+        "height": 667,
+        "url": "../imgs/plastenik2.jpg",
+        "filename": "extra-1.jpeg",
+        "size": 102108,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/plastenik2.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/plastenik2.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/plastenik2.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attWsZasaaRD1P7mm",
+        "width": 1000,
+        "height": 714,
+        "url": "../imgs/plastenik3.jpg",
+        "filename": "extra-2.jpeg",
+        "size": 84418,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/plastenik3.jpg",
+            "width": 50,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/plastenik3.jpg",
+            "width": 717,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/plastenik3.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 25,
+    "stars": 5,
+    "name": "Plastenik",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge"
+    
+  }
+  ,
+  {
+    "id": "3",
+    "stock": 3,
+    "price": 17000,
+    "shipping": true,
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#0000ff"
+    ],
+    "category": "home",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "../imgs/hala.jpg",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/hala.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/hala.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/hala.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      },
+      {
+        "id": "attaeT2Dex98o2jfW",
+        "width": 1000,
+        "height": 667,
+        "url": "../imgs/hala_konstrukcija.jpg",
+        "filename": "extra-1.jpeg",
+        "size": 102108,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/hala_konstrukcija.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/hala_konstrukcija.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/hala_konstrukcija.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 25,
+    "stars": 5,
+    "name": "Hala/Celicne konstrukcije",
+    "description": "Celicna konstrukcija dimenzije 8m x 12m"
+    
+  }
+  ,
+  {
+    "id": "4",
+    "stock": 3,
+    "price": 3200,
+    "shipping": true,
+    "colors": [
+      "#ff0000",
+      "#00ff00",
+      "#0000ff"
+    ],
+    "category": "home",
+    "images": [
+      {
+        "id": "attub6EG88kJKuYs8",
+        "width": 1000,
+        "height": 667,
+        "url": "../imgs/kapija1.jpg",
+        "filename": "product-4.jpeg",
+        "size": 49641,
+        "type": "image/jpeg",
+        "thumbnails": {
+          "small": {
+            "url": "../imgs/kapija1.jpg",
+            "width": 54,
+            "height": 36
+          },
+          "large": {
+            "url": "../imgs/kapija1.jpg",
+            "width": 768,
+            "height": 512
+          },
+          "full": {
+            "url": "../imgs/kapija1.jpg",
+            "width": 3000,
+            "height": 3000
+          }
+        }
+      }
+    ],
+    "reviews": 25,
+    "stars": 5,
+    "name": "Kapija",
+    "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge"
+    
+  }
+]

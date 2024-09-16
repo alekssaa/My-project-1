@@ -1,0 +1,185 @@
+[
+    {
+        "id": "1",
+        "name": "Balkonska ograda",
+        "price": 2425,
+        "image": "./imgs/ograda1.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+        "featured": true,
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Balkonska ograda",
+        "shipping": true
+      },
+      {
+        "id": "2",
+        "name": "Plastenik",
+        "price": 2599,
+        "image": "./imgs/plastenik1.jpg",
+        "colors": [
+         
+          "#ffffff"
+        ],
+        "featured": true,
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Plastenik",
+        "shipping": true
+      },
+      {
+        "id": "3",
+        "name": "Hale/celicne konstrukcije",
+        "price": 17000,
+        "image": "./imgs/hala.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+        "featured": true,
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Hale/pomoćni objekti",
+        "shipping": true
+      },
+      {
+        "id": "4",
+        "name": "Kapija",
+        "price": 3200,
+        "image": "./imgs/kapija1.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+        
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Kapija",
+        "shipping": true
+      },
+      {
+        "id": "5",
+        "name": "Balkonska ograda model 2",
+        "price": 25999,
+        "image": "./imgs/balkonska ograda (2).jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+      
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Balkonska ograda",
+        "shipping": true
+      },
+      {
+        "id": "6",
+        "name": "Balkonska ograda model 3",
+        "price": 25999,
+        "image": "./imgs/balkonska ograda.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+       
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Balkonska ograda",
+        "shipping": true
+      },
+      {
+        "id": "7",
+        "name": "Cubetabable/ kocka sto",
+        "price": 25999,
+        "image": "./imgs/cubetable.png",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+        "featured": true,
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Stolovi",
+        "shipping": true
+      },
+      {
+        "id": "8",
+        "name": "Ostava/  garaza",
+        "price": 25999,
+        "image": "./imgs/hala (2).jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+        "featured": true,
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Hale/pomoćni objekti",
+        "shipping": true
+      },
+      {
+        "id": "9",
+        "name": "Komoda",
+        "price": 25999,
+        "image": "./imgs/komoda.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+    
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Ostalo",
+        "shipping": true
+      }
+      ,
+      {
+        "id": "10",
+        "name": "Sto",
+        "price": 25999,
+        "image": "./imgs/sto1.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+   
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Stolovi",
+        "shipping": true
+      },
+      {
+        "id": "11",
+        "name": "Ograda 2m X 0.9m ",
+        "price": 459,
+        "image": "./imgs/ograda2_1.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+        "featured": true,
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Balkonska ograda",
+        "shipping": true
+      }
+      ,
+      {
+        "id": "12",
+        "name": "Ograda 1.2m X 0.9m ",
+        "price": 359,
+        "image": "./imgs/ograda2_4.jpg",
+        "colors": [
+          "#341de2",
+          "#020302",
+          "#ffffff"
+        ],
+ 
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "Balkonska ograda",
+        "shipping": true
+      }
+
+
+]
